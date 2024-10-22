@@ -52,7 +52,7 @@ fun TaskCompletedLayout(
 ) {
     Column(
         modifier = Modifier,
-        verticalArrangement = Arrangement.SpaceEvenly,
+        verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
 
     ) {
